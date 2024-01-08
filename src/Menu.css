@@ -1,0 +1,22 @@
+body{
+    background-image: url('./background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#logoo{
+    background-color: white;
+   padding-left: 60%;
+   padding-top: 3%;
+}
+#bar{
+    width: 40%;
+    padding-left: 1%;
+    float: left;
+    margin-right: 20%;
+    margin-top: 3%;
+}
+.log{
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 15px;
+}

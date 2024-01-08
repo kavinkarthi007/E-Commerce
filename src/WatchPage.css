@@ -1,0 +1,50 @@
+.watch-container {
+    display: flex;
+    align-items: center;
+    
+    padding: 20px;
+  }
+  
+  .watch-image {
+    max-width: 300px;
+    margin-right: 20px;
+    margin-left: 5px;
+  }
+  
+  .watch-details {
+    flex-grow: 1;
+  }
+  
+  .watch-name {
+    font-size: 20px;
+  }
+  
+  .watch-price {
+    font-size: 20px;
+  }
+  
+  .watch-brand {
+    font-size: 16px;
+  }
+  
+  .watch-description {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  #z1{
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+#z2{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+#z1:hover{
+  background-color: #1db2c5;
+}
+#z2:hover{
+  background-color: #1db2c5;
+}
+#aaa{
+  width: 50%;
+}

@@ -1,0 +1,33 @@
+body{
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#logoo{
+    background-color: white;
+   padding-left: 60%;
+   padding-top: 3%;
+}
+#tag1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 1%;
+}
+.app-container {
+    background-color: black;
+    color: white; 
+    height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: -5cqi;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    border-radius: 10px;
+  }
+  .log{
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 15px;
+}

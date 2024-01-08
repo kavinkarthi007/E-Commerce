@@ -1,0 +1,23 @@
+.blur{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 99vw;
+    height: 88.3vh;
+    background: url('./back1.jpeg') no-repeat ;
+    border-radius: 8px;
+    background-size: cover;
+  
+}
+.hp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%; 
+   
+}
+.d-block-w-100{
+    width: 300px;
+    height: 300px;
+}
+
